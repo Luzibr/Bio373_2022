@@ -48,6 +48,11 @@ $ git pull
 
 * https://www.zi.uzh.ch/de/support/netzwerk/vpn.html
 
+**Related courses**
+
+* [FGCZ courses](https://fgcz.ch/education.html)
+* [Bio334 Practical bioinformatics (2023)](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2022/004/SM/50628703)
+
 **Linux/Shell**  
 - Software Carpentry tutorial - [The Unix shell](http://swcarpentry.github.io/shell-novice)   
 - [Interactive course](http://www.learnshell.org/)  
