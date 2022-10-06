@@ -27,7 +27,7 @@ $ git pull
  &nbsp;| &nbsp;
 **6 Oct**   | &nbsp; 
 9.00-12.00  | **RNAseq analysis part1 (Lecture)** [Bio373_2022_RNAseq_analysis1.ipynb](Bio373_2022_RNAseq_analysis1.ipynb)
-13.00-15.00 | **RNAseq alignment (Practice)** Bio373_2022_Mapping.md
+13.00-15.00 | **RNAseq alignment (Practice)** [Bio373_2022_Mapping.md](https://gist.github.com/masaomi/04dd8130fc086de3fa4a3fd73cde8756)
 15.00-17.00 | **RNAseq counting (Practice)** Bio373_2022_Counting.md
  &nbsp;| &nbsp;
 **7 Oct**   | &nbsp; 
