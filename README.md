@@ -46,6 +46,7 @@ $ git pull
 
 **Mock Examination**
 * https://gist.github.com/masaomi/bed6b7a0de20db29d63b69e3ff3fa0d4
+    - Answer: https://gist.github.com/masaomi/c087b27af777702d0bc9a8d896b42572
 
 **FGCZ price list**
 * https://fgcz-intranet.uzh.ch/tiki-index.php?page=NGSPricing&highlight=price
