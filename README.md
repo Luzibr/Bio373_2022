@@ -44,6 +44,9 @@ $ git pull
 
 ## References
 
+**FGCZ price list**
+* https://fgcz-intranet.uzh.ch/tiki-index.php?page=NGSPricing&highlight=price
+
 **How to setup VPN**
 
 * https://www.zi.uzh.ch/de/support/netzwerk/vpn.html
